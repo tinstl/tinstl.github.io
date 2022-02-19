@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinstl.github.io</id>
     <title>生活往前</title>
-    <updated>2022-02-19T07:26:10.813Z</updated>
+    <updated>2022-02-19T07:29:29.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tinstl.github.io"/>
     <link rel="self" href="https://tinstl.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://tinstl.github.io/images/avatar.png</logo>
     <icon>https://tinstl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 生活往前</rights>
+    <entry>
+        <title type="html"><![CDATA[2022]]></title>
+        <id>https://tinstl.github.io/post/2022/</id>
+        <link href="https://tinstl.github.io/post/2022/">
+        </link>
+        <updated>2022-02-19T07:28:31.000Z</updated>
+        <content type="html"><![CDATA[<p>新一年，希望一切都好！<br>
+万事顺心，诸事大吉！感谢感谢！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tinstl.github.io/post/hello-gridea/</id>
