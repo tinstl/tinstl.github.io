@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
-    <title>liroad bog</title>
-    <updated>2022-02-19T07:04:31.225Z</updated>
+    <id>https://tinstl.github.io</id>
+    <title>生活往前</title>
+    <updated>2022-02-19T07:26:10.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <subtitle>学习</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
-    <rights>All rights reserved 2022, liroad bog</rights>
+    <link rel="alternate" href="https://tinstl.github.io"/>
+    <link rel="self" href="https://tinstl.github.io/atom.xml"/>
+    <subtitle>学习，随笔，旅程，闲聊</subtitle>
+    <logo>https://tinstl.github.io/images/avatar.png</logo>
+    <icon>https://tinstl.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 生活往前</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://tinstl.github.io/post/hello-gridea/</id>
+        <link href="https://tinstl.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
